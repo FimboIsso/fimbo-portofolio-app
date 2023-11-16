@@ -6,9 +6,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>Justin F.</title>
-    <meta content="Justin Fimbo is a skilled and passionate software developer.
-    With a strong background in computer sciences and a proven track record of developing high-quality applications.
-     I am confident in my ability to contribute to your organization's success" name="description">
+    <meta content="Justin Fimbo is a skilled and passionate software developer. With a strong background in computer sciences and a proven track record of developing high-quality applications. I am confident in my ability to contribute to your organization's success" name="description">
     <meta content="software developper, JUSTIN FIMBO,freelancer developer, freelance, Justin Fimbo, justin fimbo, Laravel Devepper, UZASHOP POS, uzashop, Uzashop POS" name="keywords">
 
     <!-- Favicons -->
