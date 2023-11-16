@@ -5,9 +5,11 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Justin F - Portofolio</title>
-    <meta content="Justin Fimbo is a skilled and passionate software developer. With a strong background in computer science and a proven track record of developing high-quality applications, I am confident in my ability to contribute to your organization's success" name="description">
-    <meta content="software developper, JUSTIN FIMBO, Justin Fimbo, justin fimbo, Laravel Devepper, UZASHOP POS, uzashop, Uzashop POS" name="keywords">
+    <title>Justin F.</title>
+    <meta content="Justin Fimbo is a skilled and passionate software developer.
+    With a strong background in computer sciences and a proven track record of developing high-quality applications.
+     I am confident in my ability to contribute to your organization's success" name="description">
+    <meta content="software developper, JUSTIN FIMBO,freelancer developer, freelance, Justin Fimbo, justin fimbo, Laravel Devepper, UZASHOP POS, uzashop, Uzashop POS" name="keywords">
 
     <!-- Favicons -->
     <link href="{{asset('assets/img/favicon.jpeg')}}" rel="icon">
@@ -113,7 +115,7 @@
                     </div>
                     <p>
                         As a software developer, I have a strong background in computer science and a passion for creating innovative and
-                        efficient software solutions. I hold a degree in Computer Science and have several years of professional experience
+                        efficient software solutions. I hold a degree in Computer Sciences and have several years of professional experience
                         in the industry.
                     </p>
 
