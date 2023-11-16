@@ -39,8 +39,8 @@
     <div class="d-flex flex-column">
 
         <div class="profile">
-            <img src="{{asset('assets/img/profile-img.jpg')}}" alt="" class="img-fluid rounded-circle">
-            <h1 class="text-light"><a href="index.html">Alex Smith</a></h1>
+            <img src="{{asset('assets/img/justin.jpeg')}}" alt="" class="img-fluid rounded-circle">
+            <h1 class="text-light"><a href="#">Justin Fimbo</a></h1>
             <div class="social-links mt-3 text-center">
                 <a href="https://github.com/FimboIsso" class="twitter"><i class="bx bxl-github"></i></a>
                 <a href="https://www.upwork.com/freelancers/~015ba1909bede8c331?viewMode=1" class="instagram"><i class="bx bxl-upwork"></i></a>
@@ -85,7 +85,7 @@
 
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+                    <img src="{{asset('assets/img/fimbo.jpeg')}}" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                     <h3>Full stack Developer, Mobile &amp; Web Developer ( Flutter & Laravel )</h3>
