@@ -96,7 +96,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <ul>
-                                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 Febraury 1995</span></li>
+                                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>2 Febraury 1995</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.uzashop.co</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+243 997 643 592</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Beni, North-Kivu, Congo DR</span></li>
